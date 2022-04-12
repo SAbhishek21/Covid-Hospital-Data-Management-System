@@ -1,1 +1,1 @@
-# Covid-Hospital-Data-Management-Systemystem
+# Covid-Hospital-Data-Management-System
